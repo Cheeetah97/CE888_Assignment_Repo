@@ -1,10 +1,16 @@
-# CE888 Assignment Repository
+# Stress Detection Using Machine Learning
 **Created By: Syed Muhammad Shariq Ali**
+
 **Registration: 2201831**
+
+
+
+
+
 
 <summary>
 
-## Instructions
+# Instructions
 
 * The Dataset can be downloaded from : https://datadryad.org/stash/dataset/doi:10.5061/dryad.5hqbzkh6f
 * Once downloaded, extract all the folders and sub folders
