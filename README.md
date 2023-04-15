@@ -1,4 +1,4 @@
-# CE888_Assignment_Repo
+# CE888 Assignment Repository
 **Created By: Syed Muhammad Shariq Ali**
 
 **Registration: 2201831**
@@ -19,5 +19,5 @@
   │   │   │   ├───IBI.csv
   │   │   │   ├───info.txt
   │   │   │   ├───tags.csv
-  │   │   │   ├───TEMP.csv
-  ```
+  │   │   │   ├───TEMP.csv ```
+*
