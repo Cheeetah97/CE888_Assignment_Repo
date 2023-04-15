@@ -1,7 +1,8 @@
 # CE888 Assignment Repository
 **Created By: Syed Muhammad Shariq Ali**
-
 **Registration: 2201831**
+
+<summary>
 
 ## Instructions
 
@@ -19,5 +20,7 @@
   │   │   │   ├───IBI.csv
   │   │   │   ├───info.txt
   │   │   │   ├───tags.csv
-  │   │   │   ├───TEMP.csv ```
-*
+  │   │   │   ├───TEMP.csv
+  ```
+* To Run the code, only the file paths in the second cell of the notebook need to be modified as per the location of the data folder.
+* Happy Exploring :)
