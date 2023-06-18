@@ -1,12 +1,4 @@
-# Stress Detection Using Machine Learning
-**Created By: Syed Muhammad Shariq Ali**
-
-**Registration: 2201831**
-
-
-
-Summary
-
+## Stress Detection Using Machine Learning
 
 # Instructions
 
